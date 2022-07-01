@@ -28,15 +28,11 @@ div {
 }
 
 .middle-container {
-    width: 200px;
-    height: 200px;
-    background-color: red;
+    
 }
 
 .bottom-container {
-    background-color: blue;
-    width: 200px;
-    height: 200px;
+    
 }
 
 .pro {
@@ -54,3 +50,4 @@ div {
     right: 300px;
     top: 50px;
 }
+
