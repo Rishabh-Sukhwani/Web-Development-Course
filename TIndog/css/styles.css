@@ -16,6 +16,7 @@ h2 {
     line-height: 1.5;
 }
 
+
 p {
     color: #afafaf;
 }
@@ -53,11 +54,7 @@ p {
     right: 30%;
 }
 
-h3 {
-    font-family: "Montserrat";
-    font-size: 1.5rem;
-    font-weight: 900;
-}
+
 
 #features {
     padding: 7% 15%;
@@ -114,6 +111,20 @@ h3 {
     padding: 3% 2%;
 }
 
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-heading {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
 @media (max-width: 1028px) {
 
     #title {
@@ -124,4 +135,13 @@ h3 {
         position: static;
         transform: rotate(0);
     }
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
 }
