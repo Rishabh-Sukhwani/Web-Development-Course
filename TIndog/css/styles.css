@@ -3,6 +3,7 @@
     color: white;
 }
 
+
 h1 {
     font-size: 3.5rem;
     font-weight: 900;
@@ -19,6 +20,11 @@ h2 {
 
 p {
     color: #afafaf;
+}
+
+
+.big-heading {
+    
 }
 
 .container-fluid {
@@ -63,6 +69,10 @@ p {
     position: relative;
 }
 
+.feature-title {
+    font-size: 1.5rem;
+}
+
 .feature-box {
     text-align: center;
     padding: 5%;
@@ -85,6 +95,11 @@ p {
     color: #fff;
 }
 
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 .testimonial-image {
     width: 10%;
     border-radius: 100%;
@@ -105,6 +120,11 @@ p {
 #pricing {
     padding: 100px;
     text-align: center;
+}
+
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
 }
 
 .pricing-column {
