@@ -1,6 +1,6 @@
 
 $("button").click(function() {
-    $("h1").css("color", "purple");
+    $("h1").animate({opacity: 0.5});
 });
 
 $(document).keypress(function(event) {
@@ -11,3 +11,4 @@ $(document).keypress(function(event) {
 $("h1").on("mouseover", function() {
     $("h1").css("color", "purple");
 });
+
